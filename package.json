@@ -1,5 +1,8 @@
 {
-  "name": "ipod-wheel",
+  "name": "@agencyenterprise/ipod-wheel",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/agencyenterprise"
+  },
   "version": "1.0.0",
   "scripts": {
     "rollup": "rollup -c"
